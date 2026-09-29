@@ -8,7 +8,7 @@ This project merged network topologies for 2 companies undergoing merger and acq
 
 I designed topology around the following preexisting components that were required for the project:
 
-• Zero-Trust Principles: Implement strict identity verification, assume breach (never trust, always verify), and apply micro-segmentation. Every user and device must authenticate access resources, regardless of their location.  
+• Zero-Trust Principles: Implement strict identity verification, assume breach (never trust, always verify), and apply micro-segmentation; every user and device must authenticate access resources, regardless of their location.  
 
 • Hybrid Infrastructure: Integrate both on-premises data centers and cloud services (e.g., Microsoft Azure or AWS).  
 
@@ -19,7 +19,7 @@ I designed topology around the following preexisting components that were requir
 • Budget Constraint: Stay within the stated budget ($50,000) for hardware, software, and cloud implementation. 
 <br >
 <br />
-For AD/on-prem server migration to cloud, Azure SaaS was implemented to work with active directory (AD) and domain services enabling cloud elasticity meaning services can be added, changed, and removed as necessary based on volume. Azure PaaS was put in place to allow for creation of a dev pipeline, and gateway access to applications, databases and storage.
+For AD/on-prem server migration to cloud, Azure SaaS was implemented to work with active directory (AD) and domain services enabling cloud elasticity. This mean services can be added, changed, and removed as necessary based on volume. Azure PaaS was integrated to create a CI/CD dev pipeline, and gateway access to applications, databases and storage.
 
 <br />
 
