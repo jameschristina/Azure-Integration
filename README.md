@@ -1,4 +1,4 @@
-<h1>Zero-Trust Merged Topology - Azure SaaS/PaaS Implementation </h1>
+<h1>Zero-Trust Merged Topology - Azure SaaS/PaaS </h1>
 
 <h2>Description</h2>
 This project merged network topologies for 2 companies undergoing merger and acquisition (M&A). Executives of the newly merged company expressed interest in cloud integration.
